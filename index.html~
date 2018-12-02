@@ -7,6 +7,7 @@
 </head>
 
 <body>
+      <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
       <div id="main">
   <h1 id="title">Sacagawea</h1>
   <div> The young Native American woman who made the Lewis Clark expedition possible</div>
